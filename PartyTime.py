@@ -1,3 +1,6 @@
+#Made By George Browning using fbchat
+#github.com/MindTheGap1
+
 from fbchat import Client
 from fbchat.models import *
 import time
